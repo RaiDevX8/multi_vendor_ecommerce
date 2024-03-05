@@ -2,3 +2,5 @@ database
 plugins
 PHPmailer
 libs
+build
+dist
